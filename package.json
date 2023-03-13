@@ -1,0 +1,21 @@
+{
+  "name": "my_erc20_hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@defi-wonderland/smock": "^2.3.4",
+    "@nomicfoundation/hardhat-foundry": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
