@@ -11,5 +11,6 @@ cache
 artifacts
 
 # Foundry files
+broadcast
 cache_forge
 out
